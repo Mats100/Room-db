@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RoomDb</string>
+    <string name="record_id">Record ID</string>
+    <string name="first_name">First Name</string>
+    <string name="second_name">Second Name</string>
+    <string name="save_to_room">Save to Room</string>
+    <string name="FetchData">Fetch Data</string>
+</resources>
